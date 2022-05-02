@@ -1,0 +1,22 @@
+#game {
+  display: table;
+}
+
+.row {
+  display: table-row;
+}
+
+.cell {
+  display: table-cell;
+  border: 2px solid;
+  width: 40px;
+  height: 40px;
+}
+
+.head {
+  background-color: red;
+}
+
+.body{
+  background-color: black;
+}
